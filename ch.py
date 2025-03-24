@@ -6,6 +6,7 @@ from io import StringIO
 
 st.set_page_config(page_title="AI Resume Builder", layout="wide")
 st.title("Thunderbolt Resume builder")
+st.title("NOTE:This application is underdevelopement")
 
 
 if 'resume' not in st.session_state:
