@@ -320,3 +320,4 @@ if st.button("Generate HTML Resume"):
     
     st.success("Your HTML resume is ready. Click the download button above to save it.")
     st.info("After downloading, open the file in any web browser to view your resume.and you will convert it into pdf and its under developement")
+st.write("done by Adithyan.R")
